@@ -1,7 +1,3 @@
-Here’s a clean, professional **README.md** for a project based on **ML Zoomcamp (DataTalks Club)**.
-If you want it customized for *your specific project*, paste your folder structure or project details and I’ll tailor it.
-
----
 
 # 🧠 ML Zoomcamp — Notes & Projects
 
